@@ -1,0 +1,6 @@
+let a = prompt("chieu dai = ")
+a = Number(a)
+let b = prompt("chieu rong = ")
+b = Number(b)
+console.log("chu vi la :" + ((a+b)*2))
+console.log("dien tich la :" + a*b)

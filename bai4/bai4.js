@@ -1,0 +1,7 @@
+let a = prompt("chieu dai :")
+a = Number(a)
+let b = prompt("chieu rong: ")
+b = Number(b)
+let c = prompt("chieu cao :")
+c = Number(c)
+console.log("dien tich hinh thang " + (a+b)*c/2)
